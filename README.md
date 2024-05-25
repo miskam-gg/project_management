@@ -40,7 +40,7 @@
 4. Настройте зависимости фронтенда:
 
     ```bash
-    cd infrastructure/project-management-frontend
+    cd project-management-frontend
     npm install
     cd ../..
     ```
